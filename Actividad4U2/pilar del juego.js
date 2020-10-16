@@ -1,0 +1,1 @@
+alert("pilar del juego");

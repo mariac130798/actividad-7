@@ -1,0 +1,1 @@
+alert("pilar de la exploración del medio");
